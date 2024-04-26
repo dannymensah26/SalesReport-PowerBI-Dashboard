@@ -6,3 +6,12 @@ This project offers an in-depth analysis of a SuperStore Sales Report leveraging
 
 ## Aim
 The primary goal is to provide actionable insights into the e-commerce landscape, pinpointing areas for enhancement and growth through comprehensive analysis.
+
+## Installation
+
+To run this project, ensure you have Microsoft Power BI installed on your system.
+Tools Utilized
+
+    Microsoft Power BI
+    Power Query
+    DAX Query
