@@ -40,7 +40,8 @@ Regoinal Sales Analysis
 ## Business Performance Analysis
 
 The project aims to highlight crucial business metrics and trends via a Power BI dashboard, identifying areas for optimization and informed decision-making.
-Project Learnings
+
+## Project Learnings
 
     Creation of interactive dashboards for online sales data analysis
     Utilization of complex parameters for drill-down analysis and filter customization
