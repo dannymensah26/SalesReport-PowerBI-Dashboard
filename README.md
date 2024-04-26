@@ -17,6 +17,7 @@ Tools Utilized
     DAX Query
 
 ## Dashboard
+![Sales Dashboard](https://github.com/dannymensah26/SalesReport-PowerBI-Dashboard/assets/58734050/8a51759b-eeb1-495e-a14e-48b92a0cee8b)
 
 
 
