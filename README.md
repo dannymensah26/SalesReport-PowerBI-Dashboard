@@ -21,8 +21,6 @@ Tools Utilized
 
 
 
-
-
 ## Dashboard Insights
 
 Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
@@ -35,7 +33,7 @@ Sales by Geography: States and Regions
 
 Top & Bottom 5 Products Analysis
 
-Regoinal Sales Analysis
+Regional Sales Analysis
 
 ## Business Performance Analysis
 
