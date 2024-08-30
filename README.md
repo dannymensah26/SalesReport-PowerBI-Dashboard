@@ -20,6 +20,9 @@ Tools Utilized
 ![Sales Dashboard](https://github.com/dannymensah26/SalesReport-PowerBI-Dashboard/assets/58734050/8a51759b-eeb1-495e-a14e-48b92a0cee8b)
 
 
+## Video Recording of Dashboard
+https://github.com/user-attachments/assets/5264cafc-74cd-4045-a7db-3e0ef742b626
+
 
 ## Dashboard Insights
 
